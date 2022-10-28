@@ -1,0 +1,1 @@
+If you want to exit the game during play, simply hold ctrl and press Esc, then close the window from the taskbar.
